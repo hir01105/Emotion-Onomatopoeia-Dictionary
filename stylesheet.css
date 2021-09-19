@@ -1,0 +1,41 @@
+.bg-red {
+    background-color: red;
+}
+
+.bg-rainbow {
+    background: url(https://cdn.pixabay.com/photo/2017/07/26/17/41/watercolour-2542465_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-beige {
+    background-color: blue;
+}
+
+.bg-grey {
+    background-color: grey;
+}
+
+.bg-purple {
+    background-color: purple;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-orange {
+    background-color: orange;
+}
+
+.imgShape {
+    object-fit: contain;
+}
+
+.linkBox a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
